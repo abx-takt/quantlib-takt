@@ -101,6 +101,11 @@ The commercial licence covers everything the free package does not:
 Measured factors for the full version (C++, over the faster of two baselines): European 9–24×, Asian
 8.8×, basket 7×, barrier 5.7×, American 4.2×, Heston 2.7×, local volatility 2.2×. See the showcase.
 
+Prices: **Team**, $399 a month billed yearly ($4,788): all engines, the C++ library and the free-threaded
+wheel on one platform, with every new QuantLib release rebuilt and checked bit for bit again.
+**Enterprise**, from $1,500 a month billed yearly: other platforms and QuantLib versions, an SLA, source
+escrow and acceptance on your own hardware.
+
 Get a licence, a quote, or a free speed check of your own code:
 https://taktcycles.com/?src=pypi-quantlib#start
 
