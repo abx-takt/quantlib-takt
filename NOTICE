@@ -1,0 +1,7 @@
+quantlib-takt bundles:
+- the QuantLib-SWIG 1.43 Python bindings (https://github.com/lballabio/QuantLib-SWIG), unchanged,
+  BSD 3-clause (LICENSE-QuantLib-SWIG);
+- a modified build of the QuantLib C++ library 1.43 (https://github.com/lballabio/QuantLib),
+  BSD 3-clause (LICENSE), built and modified by TAKT (ABX DEVELOPMENT LLP, https://taktcycles.com).
+  The source of the modified parts is not published.
+Not affiliated with or endorsed by the QuantLib project or its contributors.
