@@ -106,6 +106,8 @@ wheel on one platform, with every new QuantLib release rebuilt and checked bit f
 **Enterprise**, from $1,500 a month billed yearly: other platforms and QuantLib versions, an SLA, source
 escrow and acceptance on your own hardware.
 
+New measurements of other libraries, one a week: https://t.me/taktcycles
+
 Get a licence, a quote, or a free speed check of your own code:
 https://taktcycles.com/?src=pypi-quantlib#start
 
