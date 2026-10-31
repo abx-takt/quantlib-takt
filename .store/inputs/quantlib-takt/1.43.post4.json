@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "repository": "abx-takt/store-build-inputs",
+  "tag": "store-inputs-2026-10-31-v6",
+  "asset": "quantlib-takt-1.43.post4-inputs.zip",
+  "sha256": "a0e3abd1ddf8d41dfe4e97feb69df9c52b922fd6b508ebf9d10957333fecc27d",
+  "files": {
+    "native-0-libQuantLib-4575fab8.so.0.0.0": {
+      "sha256": "771c80981db651ea3df684fa924e83aeb4bf9f89af09c2bffe79f432f6437848",
+      "bytes": 35120505
+    },
+    "quantlib_takt-1.43-cp39-abi3-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl": {
+      "sha256": "e178ab120681eb9a19aeb43fedb964b35a8d2fb774d65fb602fd94d012d3f544",
+      "bytes": 19437264
+    }
+  }
+}

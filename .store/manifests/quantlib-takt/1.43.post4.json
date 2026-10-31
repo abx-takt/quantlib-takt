@@ -1,0 +1,26 @@
+{
+  "profile": "store",
+  "package": "quantlib-takt",
+  "version": "1.43.post4",
+  "import_package": "QuantLib",
+  "source_wheel": {
+    "path": "store-inputs/quantlib_takt-1.43-cp39-abi3-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+    "sha256": "e178ab120681eb9a19aeb43fedb964b35a8d2fb774d65fb602fd94d012d3f544"
+  },
+  "native_replacements": [
+    {
+      "member": "quantlib.libs/libQuantLib-4575fab8.so.0.0.0",
+      "path": "store-inputs/native-0-libQuantLib-4575fab8.so.0.0.0",
+      "sha256": "771c80981db651ea3df684fa924e83aeb4bf9f89af09c2bffe79f432f6437848",
+      "evidence": {
+        "kind": "pre-protection input",
+        "sha256": "771c80981db651ea3df684fa924e83aeb4bf9f89af09c2bffe79f432f6437848",
+        "existing_protector_receipt_sha256": "dcb057a3076d3b4fd6a881581d6e06711e1ab40df8d189fbd7845aff20342e00",
+        "store_transform": "identity; protector bypassed"
+      }
+    }
+  ],
+  "upstream_native_members": [
+    "QuantLib/_QuantLib.abi3.so"
+  ]
+}
