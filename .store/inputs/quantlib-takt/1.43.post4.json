@@ -1,7 +1,7 @@
 {
-  "schema": 1,
+  "schema": 2,
   "repository": "abx-takt/store-build-inputs",
-  "tag": "store-inputs-2026-10-31-v6",
+  "tag": "inputs-git-2026-10-31-v6",
   "asset": "quantlib-takt-1.43.post4-inputs.zip",
   "sha256": "a0e3abd1ddf8d41dfe4e97feb69df9c52b922fd6b508ebf9d10957333fecc27d",
   "files": {
@@ -13,5 +13,8 @@
       "sha256": "e178ab120681eb9a19aeb43fedb964b35a8d2fb774d65fb602fd94d012d3f544",
       "bytes": 19437264
     }
-  }
+  },
+  "release_tag": "store-inputs-2026-10-31-v6",
+  "commit": "7f34571aee38da77a376fb28c5fea086a0c0b59e",
+  "path": "inputs/quantlib-takt-1.43.post4-inputs.zip"
 }
